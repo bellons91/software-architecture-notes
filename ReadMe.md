@@ -14,3 +14,4 @@ I will share my learning on Twitter [in a specific thread](https://twitter.com/B
 - [What is Software Architecture?](./notes/001-what-is-software-architecture.md)
 - [Quality attributes of an Architecture](./notes/002-quality-attributes.md)
 - [What's an Architect role?](./notes/003-what-are-software-architects.md)
+- [Types of Software Architects](/notes/004-software-architects-types.md)
