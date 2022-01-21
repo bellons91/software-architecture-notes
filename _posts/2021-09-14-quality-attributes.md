@@ -22,7 +22,7 @@ Some quality attributes?
 * fault-tolerance
 * reliability
 
-![Quality attributes](../notes/images/002-quality-attributes/quality-attributes.jpg)
+![Quality attributes](/images/002-quality-attributes/quality-attributes.jpg)
 
 (image from http://www.jot.fm/issues/issue_2003_03/article2.pdf)
 
