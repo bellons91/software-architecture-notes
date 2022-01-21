@@ -6,6 +6,9 @@ The main book used as a source is [Software Architect's Handbook](https://www.pa
 
 I will share my learning on Twitter [in a specific thread (see below)](https://twitter.com/BelloneDavide/status/1437517622938148870). Feel free to reach me out there.
 
+* TOC
+{:toc}
+
 
 ## Table of contents:
 
@@ -16,6 +19,7 @@ I will share my learning on Twitter [in a specific thread (see below)](https://t
 - [Addressing Risks](./notes/005-addressing-risk.md)
 - [Understanding your Business](./notes/006-understanding-business.md)
 - [Domain-driven design](./notes/007-domain-driven-design.md)
+- [Software quality attributes: Maintainability](./notes/008-quality-attributes-maintainability.md)
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ok, I&#39;m gonna begin sharing my learnings about Software Architecture here!<br><br>This will be a thread of threads.<br><br>Also, you&#39;ll find all those notes in this GitHub repo:<a href="https://t.co/tnsGC4fHyj">https://t.co/tnsGC4fHyj</a><br><br>Let&#39;s begin!</p>&mdash; Davide Bellone 🌊 🗡 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1437517622938148870?ref_src=twsrc%5Etfw">September 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

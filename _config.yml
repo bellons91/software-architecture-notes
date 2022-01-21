@@ -1,3 +1,4 @@
 theme: jekyll-theme-leap-day
 title: [Software Architecture notes]
 description: [Short notes on Software Architecture provided by Davide Bellone]
+markdown: kramdown
