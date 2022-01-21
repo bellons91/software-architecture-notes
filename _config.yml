@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Davide Bellone"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Just some notes on Sowftware Architecture, taken while reading different resources."
+  bio    : "Just some notes on Software Architecture, taken while reading different resources."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
