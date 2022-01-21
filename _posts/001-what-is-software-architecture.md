@@ -1,5 +1,9 @@
 ---
 title: "What is software architecture?"
+categories:
+  - Blog
+tags:
+  - MISC
 ---
 
 We all know that software architecture is something somewhat important for every software, even the simples one.
