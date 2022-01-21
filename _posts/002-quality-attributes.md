@@ -1,3 +1,11 @@
+---
+title: "Quality attributes"
+categories:
+  - Blog
+tags:
+  - Quality attributes
+---
+
 # Quality attributes
 
 To make sure that we have designed the correct Software Architecture, we need to validate our choices against measurable properties: «it works» is not enough.
