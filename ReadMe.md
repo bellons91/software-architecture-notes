@@ -6,8 +6,6 @@ The main book used as a source is [Software Architect's Handbook](https://www.pa
 
 I will share my learning on Twitter [in a specific thread (see below)](https://twitter.com/BelloneDavide/status/1437517622938148870). Feel free to reach me out there.
 
-* TOC
-{:toc}
 
 
 ## Table of contents:

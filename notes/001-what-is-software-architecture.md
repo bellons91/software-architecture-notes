@@ -1,3 +1,13 @@
+---
+layout: post
+title: "POST TITLE"
+date: 2022-01-01 11:11:11 -0000
+categories: CATEGORY-1
+---
+
+* TOC
+{:toc}
+
 # What is software architecture?
 
 We all know that software architecture is something somewhat important for every software, even the simples one.
