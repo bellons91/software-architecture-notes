@@ -1,4 +1,11 @@
-# What's the Software Architect role?
+---
+title: "What's the Software Architect role?"
+categories:
+  - Blog
+tags:
+  - MISC
+---
+
 
 Every system has its own architecture. But not always there is someone with the official role of Software Architect.
 

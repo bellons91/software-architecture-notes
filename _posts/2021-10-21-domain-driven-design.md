@@ -1,4 +1,11 @@
-# Domain-driven design (DDD)
+---
+title: "Domain-driven design (DDD)"
+categories:
+  - Blog
+tags:
+  - MISC
+---
+
 
 Every software is based on a specific domain. Only by eliciting requirements, you can understand it. If well designed, the architecture reflects the domain.
 

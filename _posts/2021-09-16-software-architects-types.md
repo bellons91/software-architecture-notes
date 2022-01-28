@@ -1,4 +1,11 @@
-# Types of Software Architects
+---
+title: "Types of Software Architects"
+categories:
+  - Blog
+tags:
+  - MISC
+---
+
 
 Software Architect is a generic role. 
 

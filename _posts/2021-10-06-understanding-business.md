@@ -1,4 +1,10 @@
-# Understanding Business
+---
+title: "Understanding Business"
+categories:
+  - Blog
+tags:
+  - MISC
+---
 
 Knowing the business domain is crucial for being a great Software Architect!
 

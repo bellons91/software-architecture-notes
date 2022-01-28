@@ -1,4 +1,12 @@
-# Addressing risks
+---
+title: "Addressing risks"
+categories:
+  - Blog
+tags:
+  - MISC
+---
+
+
 
 Every project has its share of risks that can impact its success or its failure.
 

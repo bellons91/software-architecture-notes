@@ -1,4 +1,10 @@
-# Software quality attributes: Maintainability
+---
+title: "Quality attributes: Maintainability"
+categories:
+  - Blog
+tags:
+  - Quality attributes
+---
 
 Maintainability is the architectural attribute that describes how easy it is to maintain a software system.
 
